@@ -1,0 +1,38 @@
+#header{
+    font-family: 'Water Brush', cursive;
+    color: firebrick;
+}
+body{
+    background: black;
+}
+#instruct{
+    color: white;
+}
+#instruct1{
+    color: white;
+}
+.start{
+    color: white;
+    background: linear-gradient(to bottom right,cyan,#75f067);
+}
+#camera{
+    background: white;
+    margin-left: 15;
+}
+.white{
+    color: white;
+}
+.pink{
+    color: pink;
+    font-family: 'Oswald', sans-serif;
+    font-size: large;
+}
+.brand{
+    font-family: 'Macondo', cursive;
+}
+#input{
+    font-family: 'Raleway', sans-serif;
+}
+#email{
+    border-radius: 40px;
+}

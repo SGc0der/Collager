@@ -36,3 +36,31 @@ body{
 #email{
     border-radius: 40px;
 }
+.img{
+    width: 300;
+    height: 200;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0);
+}
+.img:hover{
+    border-radius: 120px;
+}
+.column{
+    padding: 5px;
+}
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.row{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    font-family: 'Water Brush', cursive;
+    color: antiquewhite;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: 20;
+}
